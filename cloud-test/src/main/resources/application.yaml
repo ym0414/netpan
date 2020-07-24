@@ -1,0 +1,7 @@
+
+
+logging:
+  level:
+    com.bdqn.dao: debug
+server:
+  port: 8000
